@@ -14,3 +14,19 @@ CTF
 - https://blackboxsociety.org/
 - https://picoctf.com/
 - https://captf.com/
+
+Some of the best places to learn hacking
+----
+
+- https://dotweak.com/en/
+- http://pwnable.kr
+- https://pwnable.tw
+- https://ctflearn.com
+- https://www.root-me.org
+- https://www.hackthebox.eu
+- https://www.hacking-lab.com
+- https://microcorruption.com
+- https://crackmes.one
+- https://ctflearn.com/
+- http://hackthissite.org
+- https://pentest.training/
