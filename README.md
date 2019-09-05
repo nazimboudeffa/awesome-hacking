@@ -5,7 +5,8 @@
 Awsome Hacking
 ---
 
-* [Capture The Flag](#ctf) 
+* [Capture The Flag](#ctf)
+* [Learn Hacking](#some-of-the-best-places-to-learn-hacking)
 
 CTF
 ----
