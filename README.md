@@ -7,6 +7,7 @@ Awsome Hacking
 
 * [Capture The Flag](#ctf)
 * [Learn Hacking](#some-of-the-best-places-to-learn-hacking)
+* TOR
 
 CTF
 ----
@@ -31,3 +32,10 @@ Some of the best places to learn hacking
 - https://ctflearn.com/
 - http://hackthissite.org
 - https://pentest.training/
+
+TOR
+----
+
+- https://mirror.oldsql.cc/tor/
+- https://ftp.yzu.edu.tw/torproject.org/
+- https://mirror.velcommuta.de/tor/ 
