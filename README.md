@@ -39,3 +39,15 @@ TOR
 - https://mirror.oldsql.cc/tor/
 - https://ftp.yzu.edu.tw/torproject.org/
 - https://mirror.velcommuta.de/tor/ 
+
+XSS
+----
+
+- https://knoxss.me
+- https://brutelogic.com.br
+- http://xsscheatsheet.com
+
+DISCORD
+----
+
+- https://discordapp.com/invite/mRcNtVJ
