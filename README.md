@@ -50,4 +50,4 @@ XSS
 DISCORD
 ----
 
-- https://discordapp.com/invite/mRcNtVJ
+- https://discordapp.com/invite/mRcNtVJ (XSS)
