@@ -16,6 +16,7 @@ CTF
 - https://blackboxsociety.org/
 - https://picoctf.com/
 - https://captf.com/
+  - https://web.archive.org/web/20201112003917/http://captf.com/
 
 Some of the best places to learn hacking
 ----
