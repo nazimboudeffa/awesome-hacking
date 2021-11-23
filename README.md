@@ -33,6 +33,7 @@ Some of the best places to learn hacking
 - https://ctflearn.com/
 - http://hackthissite.org
 - https://pentest.training/
+- https://book.hacktricks.xyz/
 
 TOR
 ----
@@ -62,3 +63,5 @@ BugBounty
 ---
 
 - https://yeswehack.com/
+
+
