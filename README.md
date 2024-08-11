@@ -12,21 +12,23 @@ Awsome Hacking
 CTF
 ----
 
-- https://www.root-me.org/
 - https://blackboxsociety.org/
 - https://picoctf.com/
 - https://captf.com/
   - https://web.archive.org/web/20201112003917/http://captf.com/
+- https://thebkackside.fr
 
 Some of the best places to learn hacking
 ----
 
+- https://www.root-me.org/
+- https://tryhackme.com
 - https://dotweak.com/en/
 - http://pwnable.kr
 - https://pwnable.tw
 - https://ctflearn.com
 - https://www.root-me.org
-- https://www.hackthebox.eu
+- https://www.hackthebox.com
 - https://www.hacking-lab.com
 - https://microcorruption.com
 - https://crackmes.one
