@@ -22,13 +22,12 @@ Some of the best places to learn hacking
 ----
 
 - https://www.root-me.org/
+- https://www.hackthebox.com
 - https://tryhackme.com
 - https://dotweak.com/en/
 - http://pwnable.kr
 - https://pwnable.tw
 - https://ctflearn.com
-- https://www.root-me.org
-- https://www.hackthebox.com
 - https://www.hacking-lab.com
 - https://microcorruption.com
 - https://crackmes.one
