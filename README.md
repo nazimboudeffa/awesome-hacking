@@ -64,5 +64,13 @@ BugBounty
 ---
 
 - https://yeswehack.com/
+- hackerone
+- crowdbounty
+
+BitBooks and writups
+---
+
+- https://zweilosec.gitbook.io
+
 
 
