@@ -7,6 +7,25 @@ Awsome Hacking
 
 Non exhaustive list of resources linked to hacking
 
+Labs
+---
+
+- https://www.root-me.org/
+- https://www.hackthebox.com
+- https://tryhackme.com
+
+BugBounty
+---
+
+- https://yeswehack.com/
+- https://hackerone.com
+- https://www.bugcrowd.com/
+
+BitBooks and writups
+---
+
+- https://zweilosec.gitbook.io
+
 CTF
 ----
 
@@ -19,9 +38,6 @@ CTF
 Some of the best places to learn hacking
 ----
 
-- https://www.root-me.org/
-- https://www.hackthebox.com
-- https://tryhackme.com
 - https://dotweak.com/en/
 - http://pwnable.kr
 - https://pwnable.tw
@@ -57,18 +73,6 @@ Anonymous
 ---
 
 - https://sms-anonyme.net/
-
-BugBounty
----
-
-- https://yeswehack.com/
-- hackerone
-- crowdbounty
-
-BitBooks and writups
----
-
-- https://zweilosec.gitbook.io
 
 
 
