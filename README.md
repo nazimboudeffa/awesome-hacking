@@ -14,7 +14,7 @@ Labs
 - https://www.hackthebox.com
 - https://tryhackme.com
 
-BugBounty
+Bug Bounty
 ---
 
 - https://yeswehack.com/
