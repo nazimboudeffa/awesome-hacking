@@ -35,7 +35,7 @@ CTF
 - https://captf.com/ => http://54.212.176.14/
 - https://thebkackside.fr
 
-Learn
+Other
 ----
 
 - https://dotweak.com/en/
@@ -49,13 +49,9 @@ Learn
 - http://hackthissite.org
 - https://pentest.training/
 - https://book.hacktricks.xyz/
-
-XSS
-----
-
-- https://knoxss.me
-- https://brutelogic.com.br
-- http://xsscheatsheet.com
+- XSS https://knoxss.me
+- XSS https://brutelogic.com.br
+- XSS http://xsscheatsheet.com
 
 Anonymous
 ---
