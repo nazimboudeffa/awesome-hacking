@@ -5,7 +5,7 @@
 Awsome Hacking
 ---
 
-Non exhaustive list of resources linked to hacking
+Non exhaustive list of hacking resources
 
 Labs
 ---
