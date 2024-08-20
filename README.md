@@ -21,7 +21,7 @@ BugBounty
 - https://hackerone.com
 - https://www.bugcrowd.com/
 
-BitBooks and writups
+GitBooks and writups
 ---
 
 - https://zweilosec.gitbook.io
