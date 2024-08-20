@@ -35,7 +35,7 @@ CTF
 - https://captf.com/ => http://54.212.176.14/
 - https://thebkackside.fr
 
-Some of the best places to learn hacking
+Learn
 ----
 
 - https://dotweak.com/en/
