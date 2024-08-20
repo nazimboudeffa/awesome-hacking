@@ -29,10 +29,10 @@ BitBooks and writups
 CTF
 ----
 
+- https://ctftime.org/
 - https://blackboxsociety.org/
 - https://picoctf.com/
-- https://captf.com/
-  - https://web.archive.org/web/20201112003917/http://captf.com/
+- https://captf.com/ => http://54.212.176.14/
 - https://thebkackside.fr
 
 Some of the best places to learn hacking
