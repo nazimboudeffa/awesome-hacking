@@ -5,9 +5,7 @@
 Awsome Hacking
 ---
 
-* [Capture The Flag](#ctf)
-* [Learn Hacking](#some-of-the-best-places-to-learn-hacking)
-* TOR
+Non exhaustive list of resources linked to hacking
 
 CTF
 ----
