@@ -24,6 +24,7 @@ BugBounty
 Infosec GitBooks and writups
 ---
 
+- https://nazimboudeffa.gitbook.io
 - https://zweilosec.gitbook.io
 
 CTF
