@@ -30,7 +30,7 @@ Infosec GitBooks and writups
 Learn CTF
 ----
 
-https://ctflearn.com
+- https://ctflearn.com
 
 Practice CTF
 ----
