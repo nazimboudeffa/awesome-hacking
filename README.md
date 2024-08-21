@@ -58,10 +58,6 @@ Need triage
 - XSS https://knoxss.me
 - XSS https://brutelogic.com.br
 - XSS http://xsscheatsheet.com
-
-Anonymous
----
-
 - https://sms-anonyme.net/
 
 
