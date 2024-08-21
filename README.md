@@ -8,37 +8,42 @@ Awsome Hacking
 Non exhaustive list of hacking resources
 
 Labs
----
+----
 
 - https://www.root-me.org/
 - https://www.hackthebox.com
 - https://tryhackme.com
 
 Bug Bounty
----
+----
 
 - https://yeswehack.com/
 - https://hackerone.com
 - https://www.bugcrowd.com/
 
 Infosec GitBooks and writups
----
+----
 
 - https://nazimboudeffa.gitbook.io
 - https://zweilosec.gitbook.io
 
-CTF
+Learn CTF
 ----
 
-- https://ctftime.org/
+https://ctflearn.com
+
+Practice CTF
+----
+
+- https://ctftime.org
+
+Need triage
+----
+
 - https://blackboxsociety.org/
 - https://picoctf.com/
 - https://captf.com/ => http://54.212.176.14/
 - https://thebkackside.fr
-
-Other
-----
-
 - https://dotweak.com/en/
 - http://pwnable.kr
 - https://pwnable.tw
