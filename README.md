@@ -48,7 +48,6 @@ Need triage
 - https://dotweak.com/en/
 - http://pwnable.kr
 - https://pwnable.tw
-- https://ctflearn.com
 - https://www.hacking-lab.com
 - https://microcorruption.com
 - https://crackmes.one
