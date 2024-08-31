@@ -30,6 +30,7 @@ Infosec GitBooks and writups
 Learn CTF
 ----
 
+- https://picoctf.com/
 - https://ctflearn.com
 - https://dojo-yeswehack.com oriented Bug Bounty
 
@@ -42,7 +43,6 @@ Need triage
 ----
 
 - https://blackboxsociety.org/
-- https://picoctf.com/
 - https://captf.com/ => http://54.212.176.14/
 - https://thebkackside.fr
 - https://dotweak.com/en/
