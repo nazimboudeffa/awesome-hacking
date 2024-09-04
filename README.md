@@ -52,7 +52,6 @@ Need triage
 - https://www.hacking-lab.com
 - https://microcorruption.com
 - https://crackmes.one
-- https://ctflearn.com/
 - http://hackthissite.org
 - https://pentest.training/
 - https://book.hacktricks.xyz/
