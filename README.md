@@ -59,6 +59,7 @@ Need triage
 - XSS https://brutelogic.com.br
 - XSS http://xsscheatsheet.com
 - https://sms-anonyme.net/
+- https://huntr.com
 
 
 
