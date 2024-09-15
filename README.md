@@ -60,6 +60,7 @@ Need triage
 - XSS http://xsscheatsheet.com
 - https://sms-anonyme.net/
 - https://huntr.com
+- hackinghub.io nahamsec
 
 
 
