@@ -26,6 +26,7 @@ Infosec GitBooks and writups
 
 - https://nazimboudeffa.gitbook.io
 - https://zweilosec.gitbook.io
+- https://kali-sec-com.gitbook.io/hacking-wordpress
 
 Learn CTF
 ----
