@@ -7,40 +7,32 @@ Awsome Hacking
 
 Non exhaustive list of hacking resources
 
-Labs
-----
-
-- https://www.root-me.org/
-- https://www.hackthebox.com
-- https://tryhackme.com
-- https://hackinghub.io nahamsec
-
-Bug Bounty
+Bug Bounty Programs
 ----
 
 - https://yeswehack.com/
 - https://hackerone.com
 - https://www.bugcrowd.com/
 
-Infosec GitBooks and writups
+Learn & Practice
+----
+
+- https://www.root-me.org/
+- https://www.hackthebox.com
+- https://tryhackme.com
+- https://picoctf.com/
+- https://ctflearn.com
+- https://dojo-yeswehack.com oriented Bug Bounty
+- https://www.hacker101.com/ hackerone
+- https://hackinghub.io nahamsec
+- https://ctftime.org
+
+Writups
 ----
 
 - https://nazimboudeffa.gitbook.io
 - https://zweilosec.gitbook.io
 - https://kali-sec-com.gitbook.io/hacking-wordpress
-
-Learn CTF
-----
-
-- https://picoctf.com/
-- https://ctflearn.com
-- https://dojo-yeswehack.com oriented Bug Bounty
-- https://www.hacker101.com/ hackerone
-
-Practice CTF
-----
-
-- https://ctftime.org
 
 Need triage
 ----
@@ -62,6 +54,7 @@ Need triage
 - XSS http://xsscheatsheet.com
 - https://sms-anonyme.net/
 - https://huntr.com
+- http://ffuf.me/
 - https://trickest.io
 
 
