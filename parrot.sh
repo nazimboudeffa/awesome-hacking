@@ -12,4 +12,4 @@ go install github.com/ffuf/ffuf/v2@latest
 # XSS
 sudo snap install dalfox
 # https://github.com/s0md3v/XSStrike
-PATH=$PATH:~/user/bin
+PATH=$PATH:~/user/go/bin
