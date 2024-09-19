@@ -13,6 +13,7 @@ Bug Bounty Programs
 - https://yeswehack.com/
 - https://hackerone.com
 - https://www.bugcrowd.com/
+- https://intigriti.com
 
 Learn & Practice
 ----
