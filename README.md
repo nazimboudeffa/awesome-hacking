@@ -57,5 +57,6 @@ Need triage
 - https://huntr.com
 - http://ffuf.me/
 - https://trickest.io
+- https://www.wordfence.com/
 
 
