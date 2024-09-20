@@ -12,4 +12,7 @@ go install github.com/ffuf/ffuf/v2@latest
 PATH=$PATH:~/user/go/bin
 # XSS
 sudo snap install dalfox
-# https://github.com/s0md3v/XSStrike
+git clone https://github.com/s0md3v/XSStrike
+cd XSStrike
+pip install -r requirements.txt
+# Usage python xsstrike
