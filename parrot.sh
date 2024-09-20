@@ -3,6 +3,7 @@ sudo apt install strace
 sudo apt install ltrace
 # WORDPRESS
 gem install wpscan
+# wpscan wpscan --url https://target.com
 # RECON
 sudo apt install amass
 cd ~
