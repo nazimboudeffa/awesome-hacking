@@ -5,7 +5,7 @@ sudo apt install ltrace
 gem install wpscan
 # RECON
 sudo apt install amass
-cd ~/Documents
+cd ~
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/ffuf/ffuf/v2@latest
