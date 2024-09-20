@@ -16,3 +16,4 @@ git clone https://github.com/s0md3v/XSStrike
 cd XSStrike
 pip install -r requirements.txt --break-system-packages
 # Usage python xsstrike
+cd ~
