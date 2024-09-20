@@ -5,9 +5,9 @@ sudo apt install strace
 sudo apt install ltrace
 #########
 # WORDPRESS
+# wpscan wpscan --url https://target.com
 #########
 gem install wpscan
-# wpscan wpscan --url https://target.com
 #########
 # RECON
 #########
@@ -19,10 +19,10 @@ go install github.com/ffuf/ffuf/v2@latest
 PATH=$PATH:~/user/go/bin
 #########
 # XSS
+# python xsstrike.py -u https://target.com --crawl -l 4
 #########
 sudo snap install dalfox
 git clone https://github.com/s0md3v/XSStrike
 cd XSStrike
 pip install -r requirements.txt --break-system-packages
-# python xsstrike.py -u https://target.com --crawl -l 4
 cd ~
