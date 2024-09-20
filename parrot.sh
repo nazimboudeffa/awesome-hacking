@@ -15,5 +15,5 @@ sudo snap install dalfox
 git clone https://github.com/s0md3v/XSStrike
 cd XSStrike
 pip install -r requirements.txt --break-system-packages
-# python xsstrike -u https://target.com
+# python xsstrike.py -u https://target.com --crawl -l 4
 cd ~
