@@ -16,7 +16,7 @@ cd ~
 go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/ffuf/ffuf/v2@latest
-PATH=$PATH:~/user/go/bin
+PATH=$PATH:~/go/bin
 #########
 # XSS
 # python xsstrike.py -u https://target.com --crawl -l 4
